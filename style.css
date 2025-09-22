@@ -1,4 +1,6 @@
 p {
-text-decoration: line-through;
-color: green;
+
+}a{
+    text-decoration: none;
+    color: red;
 }
