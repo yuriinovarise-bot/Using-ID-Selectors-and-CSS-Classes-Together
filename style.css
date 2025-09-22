@@ -1,3 +1,4 @@
 p {
-text-decoration: overline;
+text-decoration: line-through;
+color: green;
 }
