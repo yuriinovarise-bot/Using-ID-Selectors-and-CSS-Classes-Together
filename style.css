@@ -1,14 +1,15 @@
-p {
-	color: rgb(62, 93, 0);
-    width: 300px;
-;
-}h1{
-    color: #FF7373;
+h1{
+    text-align: right;
 }h2{
-    color: aquamarine;
-}h3{
-    color: red;
+    text-align: center;
+    width: 300px;
 }tr{
-    width: 400px;
-    height: 300px;
+    width: 500px;
+}th{
+    text-align-last: left;
+}td{
+    text-align: center;
+}p{
+    width: 300px;
+    text-align: justify;
 }
