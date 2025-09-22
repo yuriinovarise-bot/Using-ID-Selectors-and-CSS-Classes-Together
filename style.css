@@ -1,6 +1,23 @@
-p {
-
-}a{
-    text-decoration: none;
-    color: red;
+h1{
+color: blue;
+font-size: 40px;
+text-indent: 40px;
+line-height: 40px;
+}h2{
+color: green;
+font-weight: normal;
+text-indent: 100px;  
+font-family: 'Times New Roman', Times, serif;
+font-size: 30px;
+line-height: 40px;
+}p{
+    width: 500px;
+    text-align: justify;
+    font-weight: normal;
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 18px;
+    text-indent: 40px;
+}li{
+    width: 400px;
+    text-align: justify;
 }
