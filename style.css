@@ -1,15 +1,9 @@
-h1{
-    text-align: right;
-}h2{
-    text-align: center;
-    width: 300px;
-}tr{
+tr{
     width: 500px;
-}th{
-    text-align-last: left;
+    height: 300px;
 }td{
     text-align: center;
-}p{
-    width: 300px;
-    text-align: justify;
+    font-weight: bold;
+}th{
+    font-weight: normal;
 }
