@@ -1,11 +1,24 @@
-.block1{
-	color: red;
-}.block2{
-	color: green;
-}.block3{
-	color: blue;
-}.block-part1{
-	color: red;
-}.block-part2{
-    color: green;
+/* 1 */
+/* .eee,.zzz {
+	font-size: 20px;
+	line-height: 1.5;
+	font-family: Arial;
+}
+.zzz {
+	font-size: 30px;
+	
+} */
+ /* 2 */
+.eee,.zzz,.ggg {
+	font-size: 20px;
+	text-align: center;
+	font-family: Arial;
+}
+.zzz {
+	font-size: 30px;
+
+}
+.ggg {
+	font-size: 35px;
+
 }
