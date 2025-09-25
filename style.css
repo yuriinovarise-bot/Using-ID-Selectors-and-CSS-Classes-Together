@@ -1,7 +1,6 @@
-#elem1{
-	color: red;
-}#elem2{
-	color: green;
-}#elem3{
+#block{
 	color: blue;
+	font-family: sans-serif;
+}.text{
+	font-size: 20px;
 }
