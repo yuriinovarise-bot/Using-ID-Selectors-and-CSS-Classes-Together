@@ -1,24 +1,7 @@
-/* 1 */
-/* .eee,.zzz {
-	font-size: 20px;
-	line-height: 1.5;
-	font-family: Arial;
-}
-.zzz {
+.header {
+	color: red;
+}h2.header{
+	font-size: 40px;
+}h3.header{
 	font-size: 30px;
-	
-} */
- /* 2 */
-.eee,.zzz,.ggg {
-	font-size: 20px;
-	text-align: center;
-	font-family: Arial;
-}
-.zzz {
-	font-size: 30px;
-
-}
-.ggg {
-	font-size: 35px;
-
 }
