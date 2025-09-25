@@ -1,11 +1,3 @@
-
-ul li i{
-	color: red;
-}
-p i{
-	color: green;
-}
-/* 2 */
-p b i{
+li > b{
 	color: red;
 }
