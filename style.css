@@ -1,3 +1,18 @@
-.eee i{
+/* .eee .bbb {
+	color: red;
+} */
+ /* .eee h2 {
+	color: red;
+} */
+ /* .eee h2.bbb {
+	color: red;
+} */
+ /* .eee h3.bbb {
+	color: red;
+} */
+ /* .eee p.bbb {
+	color: red;
+} */
+ .eee .bbb .kkk {
 	color: red;
 }
