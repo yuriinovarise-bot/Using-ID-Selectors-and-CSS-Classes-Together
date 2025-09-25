@@ -1,19 +1,11 @@
-/* 1 */
-/* h1,h2,h3 {
-	text-align: center;
-}
-h2 {
-	color: blue;
-}
-h3 {
-	font-size: 16px;
-	color: red;
-} */
- /* 2 */
- h1,h2,h3 {
-	text-align: center;
+
+ul li i{
 	color: red;
 }
-h3 {
-	font-size: 16px;
+p i{
+	color: green;
+}
+/* 2 */
+p b i{
+	color: red;
 }
