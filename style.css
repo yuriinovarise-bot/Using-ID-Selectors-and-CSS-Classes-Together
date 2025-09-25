@@ -1,3 +1,20 @@
-.eee p .bbb {
+.success {
+	color: green;
+}
+.error {
 	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
+.fontfam{
+	font-family: 'Courier New', Courier, monospace;
+	
+}.fontsize{
+	font-size: 30px;
+}.fontwgt{
+	font-weight: bold;
 }
